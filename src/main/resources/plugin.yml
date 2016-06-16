@@ -1,0 +1,9 @@
+name: karolekTrade
+version: 1.0.0
+main: net.karolek.trade.TradePlugin
+author: Karolek
+description: Plugin na wymiane miedzy uzytkownikami
+commands:
+  tradereload:
+    default: op
+    description: Przeladowywuje konfiguracje pluginu
